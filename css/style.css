@@ -1,0 +1,142 @@
+body{font-family: 'Montserrat', sans-serif;
+    width: 1280px;
+    height: 1965px;
+    background-color: #f5f7fa;
+}
+
+.Ed-color{
+    color:#ff9147}
+.my-resume{
+    background:#1e2939;
+    width:1200px;
+    height: 1300px;
+    display: flex;
+    flex-direction: row;}
+.contact-information{
+    opacity: 0.5;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;}
+.contacts{
+    margin-top: 40px;
+    margin-left: 40px;}
+.techskills{
+    margin-top: 60px;
+    margin-left: 40px;}
+.soft-skills{
+    margin-top: 60px;
+    margin-left: 40px;}
+img{
+    padding-top: 40px;}
+.li-side{
+    width: 49px;
+    color: #ff6b08;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;}
+.text-point{
+    width: 49px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;}
+.h-side{
+    width: 121px;
+    height: 17px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;}
+.value-tag{
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;}
+.work-time-tag{
+    color: #a8a8a8;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.main-link-tag{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 15px;
+}
+.main-container-tag{
+    padding: 90px;
+    background-color:white;
+    box-sizing: border-box;
+    width: 1319px;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+    height: 1300px;
+}
+.front-end{
+    width: 500;
+}
+.Front-end-Developer{
+    width: 180px;
+    height: 14px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    /* Text style for "Front-End" */
+    letter-spacing: 0.42px
+}
+h1{
+    width: 341px;
+    height: 45px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+p{
+    width: 413px;
+    height: 107px;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    /* Text style for "Lorem ipsu" */
+    letter-spacing: 0.42px;
+}
+ul{
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+.freelance{
+    width: 540px;
+    padding-left:15px ;
+}
+.h-black{
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.48px;
+}
+.h-orange{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff6b08;
+    letter-spacing: 0.48px;
+}
